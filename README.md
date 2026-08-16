@@ -30,3 +30,16 @@ Este proyecto aplica principios de **DDD (Domain-Driven Design)**, **Clean Archi
 - Interfaces y separación de infraestructura
 - Soporte para Mongo y SQL (intercambiables)
 - Módulo de token/autenticación
+
+---
+
+🧠 When you think of me  
+🔥 You should think of fire  
+🌋 Risen from the ashes  
+🔁 Again and again  
+🖱️ You should think of fire  
+🔁 Again and again  
+🔥 You should think of fire  
+💻 You should think of fire  
+🧑‍💻 You
+
